@@ -4,3 +4,7 @@
 .container-fluid {
     max-width: 1200px;
 }
+:root {
+    --bs-success: #00888f;
+    --bs-success: rgb(0, 136, 143);
+}
